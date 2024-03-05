@@ -32,6 +32,8 @@ Diagrama de ejemplo:
 
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/69cd7415-3758-4b6d-95a8-bab5d895f8cf)
 
+Estructura de Zip dezplegado:
+![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/32ddf194-fcfc-4fdd-b59e-d3769809d416)
 
 
 Ejemplos Cargas:
