@@ -29,22 +29,33 @@ Cada caso de estudio debe tener su propio dashboard y de todo el proyecto al men
 visualizaciones deben tener geolocalización.
 
 Diagrama de ejemplo:
+
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/69cd7415-3758-4b6d-95a8-bab5d895f8cf)
+
+
 
 Ejemplos Cargas:
 
 COUCH
+
 hobbies
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/8ed908ad-e257-414e-9b34-54e4005db3ee)
+
 eventos
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/f71ac046-4701-426f-8200-7bdd0c458ed9)
 
 MONGO
+
+Carga de eventos MDB
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/53a89b66-3112-4193-935c-8cd4b8e06497)
+
+Carga de datos MDB
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/72a6fa32-6bb3-4d17-b9f7-ca6498842ad8)
+
 
 Codigo ejemplo:
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/a04495cb-a189-4e68-a5d9-b4a84cfea778)
+
 
 Visualizacion en Power_BI
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/937777d4-ee3d-4a90-b65b-25d801154f9a)
