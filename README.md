@@ -63,7 +63,7 @@ Visualizacion en Power_BI
 ![image](https://github.com/ErickVillarroel1722/Proyecto_Final_AD/assets/117743333/937777d4-ee3d-4a90-b65b-25d801154f9a)
 
 Link video Presentacion:
-(Pendiente)
 
+https://youtu.be/vCaNClUwaJs
 
 
