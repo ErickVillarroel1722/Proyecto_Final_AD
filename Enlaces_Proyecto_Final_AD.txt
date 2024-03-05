@@ -1,0 +1,11 @@
+Eventos:
+https://app.powerbi.com/view?r=eyJrIjoiOTkzYjBkYmYtZTVmNy00ZWVhLWE3YTUtMTAzODk1NjU1YTdkIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Sports:
+<iframe title="sport" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDNiYzllYWItYWQzZC00ODNmLTk2YzEtZGQwYzUyYTA1NWY4IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+Politica juegos y pokemon:
+https://app.powerbi.com/view?r=eyJrIjoiN2EwOTAyOTktMWFiMC00YzQ5LTk1YTktNDY1YmI3YWY0MmNhIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Link de Github:
+https://github.com/ErickVillarroel1722/Proyecto_Final_AD
